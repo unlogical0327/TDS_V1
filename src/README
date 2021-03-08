@@ -1,0 +1,1 @@
+This code support two mode as 1)offline mode to read data from file and run simulation. 2) online mode to read data from pico-zense DCAM710 camera and run simulation.
